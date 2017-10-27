@@ -15,6 +15,8 @@ public class testProgrammation {
 		System.out.println(laProgrammation.LireTemperature(0, 5, 15));
 		System.out.println(laProgrammation.LireTemperature(1, 0, 10));
 		System.out.println(laProgrammation.LireTemperature(1, 0, 11));
-		System.out.println(laProgrammation.LireTemperature(1, 0, 12));		
+		System.out.println(laProgrammation.LireTemperature(1, 0, 12));	
+		
+		
 	}
 }
